@@ -1,0 +1,23 @@
+# Hibachi Chef Insurance — Contractors Choice Agency
+
+Specialty liability and business insurance for hibachi chefs, teppanyaki restaurants, and private event hibachi services through Contractors Choice Agency.
+
+## Contact
+- Phone: 844-967-5247
+- Email: josh@contractorschoiceagency.com
+- Address: 12220 E Riggs Road Suite #105, Chandler AZ 85249
+- Hours: Mon-Fri 8am-5pm Arizona (MST)
+
+## Pages
+- Home (/) — Overview of hibachi restaurant insurance, value props, coverage highlights
+- Coverage (/coverage) — Detailed coverage types for hibachi and teppanyaki operations
+- Quote (/quote) — Free quote request form for hibachi restaurant insurance
+- About (/about) — About Contractors Choice Agency and Josh Cotner
+
+## Coverage Types
+- General Liability — Third-party injuries, customer property damage, open-flame/teppanyaki exposure
+- Workers Compensation — Burns, cuts, kitchen injuries for chefs and restaurant staff
+- Commercial Property — Building, equipment, inventory including hibachi grills and ventilation
+- Liquor Liability — Coverage for sake, beer, cocktails served alongside hibachi dining
+- Equipment Breakdown — Commercial grills, ventilation systems, refrigeration
+- Business Interruption — Lost revenue during downtime from fire, disaster, or equipment failure
