@@ -4,7 +4,7 @@ import "./globals.css";
 const SITE_URL = "https://hibachiinsurance.com";
 const SITE_NAME = "Hibachi Insurance";
 const PARENT = "Contractor's Choice Agency";
-const PHONE = "+1-844-967-5247";
+const PHONE = "+18449675247";
 const OG_IMAGE = `${SITE_URL}/og-default.jpg`;
 
 export const metadata: Metadata = {
@@ -67,7 +67,7 @@ const localBusinessSchema = {
     "Specialty insurance agency for hibachi restaurants, Japanese steakhouses, and teppanyaki dining. 20+ years of restaurant-coverage expertise.",
   address: {
     "@type": "PostalAddress",
-    streetAddress: "12220 E Riggs Rd",
+    streetAddress: "12220 E Riggs Road, Suite #105",
     addressLocality: "Chandler",
     addressRegion: "AZ",
     postalCode: "85249",

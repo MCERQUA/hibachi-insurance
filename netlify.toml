@@ -8,3 +8,8 @@
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
+
+[[notifications]]
+  event = "submission_created"
+  form = "quote"
+  url = "https://josh.jam-bot.com/social-api/api/leads/webhook/netlify?tenant=josh&site=hibachi-insurance"
